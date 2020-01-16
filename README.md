@@ -23,3 +23,8 @@ Contribute
 * If you feel like contributing, there are **TODO** annotations in the code. Mostly basic/trivial stuff, good exercise for people starting with elisp.
 * If you have more substantial ideas, start an issue so we can discuss it. I'm open to all ideas, this is simply a precaution for people to not work on the same feature.
 * If you want, you can [throw a couple bucks my way](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A5PMGVKCQBT88) or support me on [Patreon](https://www.patreon.com/user?u=3282358&ty=h) \(we have a long way to beat that $300k goal people!\).
+
+CHANGE FOR EMACS 28.0.0
+=========================
+
+For the version 28.0.0 the Emacs team change the configuration files from .emacs.d to .config/emacs/. For this change I update the main file.
